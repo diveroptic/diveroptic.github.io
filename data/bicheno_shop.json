@@ -1,0 +1,94 @@
+{
+   "results":[
+      {
+         "id":1,
+         "category":"eat",
+         "name":"example 1",
+         "description":"This is an example",
+         "phone":"1111",
+         "website":"diveroptic.com/1",
+         "email":"exanple1@gmail.com"
+      },
+      {
+         "id":2,
+         "category":"shop",
+         "name":"example 2",
+         "description":"This is an example",
+         "phone":"2222",
+         "website":"diveroptic.com/2",
+         "email":"exanple2@gmail.com"
+      },
+      {
+         "id":3,
+         "category":"play",
+         "name":"example 3",
+         "description":"This is an example",
+         "phone":"3333",
+         "website":"diveroptic.com/3",
+         "email":"exanple3@gmail.com"
+      },
+      {
+         "id":4,
+         "category":"eat",
+         "name":"example 4",
+         "description":"This is an example",
+         "phone":"4444",
+         "website":"diveroptic.com/4",
+         "email":"exanple4@gmail.com"
+      },
+      {
+         "id":5,
+         "category":"stay",
+         "name":"example 5",
+         "description":"This is an example",
+         "phone":"5555",
+         "website":"diveroptic.com/5",
+         "email":"exanple5@gmail.com"
+      },
+      {
+         "id":6,
+         "category":"shop",
+         "name":"example 6",
+         "description":"This is an example",
+         "phone":"6666",
+         "website":"diveroptic.com/6",
+         "email":"exanple6@gmail.com"
+      },
+      {
+         "id":7,
+         "category":"eat",
+         "name":"example 7",
+         "description":"This is an example",
+         "phone":"7777",
+         "website":"diveroptic.com/7",
+         "email":"exanple7@gmail.com"
+      },
+      {
+         "id":8,
+         "category":"play",
+         "name":"example 8",
+         "description":"This is an example",
+         "phone":"8888",
+         "website":"diveroptic.com/8",
+         "email":"exanple8@gmail.com"
+      },
+      {
+         "id":9,
+         "category":"shop",
+         "name":"example 9",
+         "description":"This is an example",
+         "phone":"9999",
+         "website":"diveroptic.com/9",
+         "email":"exanple9@gmail.com"
+      },
+      {
+         "id":10,
+         "category":"stay",
+         "name":"example 10",
+         "description":"This is an example",
+         "phone":"1010",
+         "website":"diveroptic.com/10",
+         "email":"exanple10@gmail.com"
+      }
+   ]
+}
