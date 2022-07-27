@@ -3,7 +3,7 @@
       {
          "id":1,
          "category":"eat",
-         "name":"example",
+         "name":"example 1",
          "description":"This is an example",
          "phone":"1234567890",
          "website":"diveroptic.com",
@@ -12,9 +12,9 @@
       {
          "id":2,
          "category":"eat",
-         "name":"example",
+         "name":"example 2",
          "description":"This is an example",
-         "phone":"1234567890",
+         "phone":"0123456789",
          "website":"diveroptic.com",
          "email":"exanple@gmail.com"
       }
